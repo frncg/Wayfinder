@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Quiz_Station.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

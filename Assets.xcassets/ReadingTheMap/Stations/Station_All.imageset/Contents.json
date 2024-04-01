@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Station_All.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "route_id": "1",
+    "shape_id": "1..N03R"
+  },
+  {
+    "route_id": "2",
+    "shape_id": "2..N08R"
+  },
+  {
+    "route_id": "3",
+    "shape_id": "3..S01R"
+  },
+  {
+    "route_id": "4",
+    "shape_id": "4..N01R"
+  },
+  {
+    "route_id": "5",
+    "shape_id": "5..N01R"
+  },
+  {
+    "route_id": "5",
+    "shape_id": "5..N02R"
+  },
+  {
+    "route_id": "5",
+    "shape_id": "5..N06R"
+  },
+  {
+    "route_id": "6",
+    "shape_id": "6..N01R"
+  },
+  {
+    "route_id": "GS",
+    "shape_id": "GS.N01R"
+  },
+  {
+    "route_id": "A",
+    "shape_id": "A..N04R"
+  },
+  {
+    "route_id": "A",
+    "shape_id": "A..N09R"
+  },
+  {
+    "route_id": "B",
+    "shape_id": "B..N45R"
+  },
+  {
+    "route_id": "B",
+    "shape_id": "B..N40R"
+  },
+  {
+    "route_id": "C",
+    "shape_id": "C..N04R"
+  },
+  {
+    "route_id": "D",
+    "shape_id": "D..N05R"
+  },
+  {
+    "route_id": "F",
+    "shape_id": "F..N62R"
+  },
+  {
+    "route_id": "F",
+    "shape_id": "F..N75R"
+  },
+  {
+    "route_id": "F",
+    "shape_id": "F..N69R"
+  },
+  {
+    "route_id": "FS",
+    "shape_id": "FS.N01R"
+  },
+  {
+    "route_id": "G",
+    "shape_id": "G..S14R"
+  },
+  {
+    "route_id": "G",
+    "shape_id": "G..N13R"
+  },
+  {
+    "route_id": "H",
+    "shape_id": "H..N21R"
+  },
+  {
+    "route_id": "J",
+    "shape_id": "J..N12R"
+  },
+  {
+    "route_id": "L",
+    "shape_id": "L..N01R"
+  },
+  {
+    "route_id": "M",
+    "shape_id": "M..N20R"
+  },
+  {
+    "route_id": "N",
+    "shape_id": "N..N01R"
+  },
+  {
+    "route_id": "N",
+    "shape_id": "N..N20R"
+  },
+  {
+    "route_id": "N",
+    "shape_id": "N..N63R"
+  },
+  {
+    "route_id": "W",
+    "shape_id": "N..S72R"
+  },
+  {
+    "route_id": "W",
+    "shape_id": "N..N70R"
+  },
+  {
+    "route_id": "W",
+    "shape_id": "N..S70R"
+  },
+  {
+    "route_id": "Q",
+    "shape_id": "Q..N16R"
+  },
+  {
+    "route_id": "Q",
+    "shape_id": "Q..N19R"
+  },
+  {
+    "route_id": "R",
+    "shape_id": "R..N27R"
+  },
+  {
+    "route_id": "R",
+    "shape_id": "R..S71R"
+  },
+  {
+    "route_id": "R",
+    "shape_id": "R..N93R"
+  },
+  {
+    "route_id": "R",
+    "shape_id": "R..N76R"
+  },
+  {
+    "route_id": "7",
+    "shape_id": "7..N95R"
+  },
+  {
+    "route_id": "E",
+    "shape_id": "E..N05R"
+  },
+  {
+    "route_id": "E",
+    "shape_id": "E..N72R"
+  },
+  {
+    "route_id": "E",
+    "shape_id": "E..N66R"
+  },
+  {
+    "route_id": "E",
+    "shape_id": "E..N75R"
+  },
+  {
+    "route_id": "J",
+    "shape_id": "J..N12R"
+  },
+  {
+    "route_id": "SI",
+    "shape_id": "SI..N02R"
+  }
+]

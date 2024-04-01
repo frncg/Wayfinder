@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Platform_Signage.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
